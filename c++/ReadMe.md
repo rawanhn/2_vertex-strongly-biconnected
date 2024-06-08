@@ -12,3 +12,8 @@ References
 4.J. M. Schmidt, A simple test on 2-vertex- and 2-edge-connectivity, Inform. Process. Lett. 113 (2013) 241–244.
 5.Raed Jaberi, Minimum 2-Vertex Strongly Biconnected Spanning Directed Subgraph Problem Discrete Mathematics Letters, 40–43, Volume 7(2021) DOI: 10.47443/dml.2021.0024
 6.Stanford Large Network Dataset Collection, https://snap.stanford.edu/data/index.html
+
+students:
+
+A'laa Aierout,Razan Naddaf , Taj Ismaeel,  Hussain Fateh,  Joudy Shehada , Maged Hujira, Farah Khadam , Karam Anstas,
+Rawan Hnawi , Sara Alghawi.
